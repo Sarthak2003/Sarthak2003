@@ -105,11 +105,14 @@ An open-source, terminal-native messaging utility built for remote-access commun
 
 <br/>
 
+
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sarthak2003&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak2003&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+
+![Sarthak's GitHub stats](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/sarthak2003&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/sarthak2003?style=for-the-badge&color=blue)
+
 </div>
 
 <br/>
