@@ -110,7 +110,7 @@ An open-source, terminal-native messaging utility built for remote-access commun
 
 <div align="center">
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsarthak2003&style=for-the-badge)
+
 ![Followers](https://img.shields.io/github/followers/sarthak2003?style=for-the-badge&color=blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=sarthak2003&color=blue&style=for-the-badge&label=Profile+Views)
 
