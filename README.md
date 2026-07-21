@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=220&section=header&text=Sarthak%20Bhatt&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20and%20Agentic%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
@@ -107,21 +107,14 @@ An open-source, terminal-native messaging utility built for remote-access commun
 
 ## GitHub Analytics
 
+## GitHub Analytics
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sarthak2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sarthak2003&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak2003&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=sarthak2003&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sarthak2003&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
-
 <br/>
-
 ## Let's Connect
 
 <div align="center">
